@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ziadg\\source\\repos\\Stocks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|c:\\users\\ziadg\\source\\repos\\stocks\\stocks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|solutionrelative:stocks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|c:\\users\\ziadg\\source\\repos\\stocks\\stocks\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|solutionrelative:stocks\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|c:\\users\\ziadg\\source\\repos\\stocks\\stocks\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|solutionrelative:stocks\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A29E9A-D8D9-4E77-8A81-49208C75649B}|Services\\Services.csproj|c:\\users\\ziadg\\source\\repos\\stocks\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A29E9A-D8D9-4E77-8A81-49208C75649B}|Services\\Services.csproj|solutionrelative:services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ziadg\\AppData\\Roaming\\Microsoft\\UserSecrets\\e39a0e15-8649-4dea-82c6-4c062b7e42ef\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ziadg\\AppData\\Roaming\\Microsoft\\UserSecrets\\59a6d116-76b3-45a7-a163-12fe44e2355d\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5389203-3BE4-455C-9F07-D5A4CD1432F5}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\ziadg\\source\\repos\\stocks\\servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5389203-3BE4-455C-9F07-D5A4CD1432F5}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|c:\\users\\ziadg\\source\\repos\\stocks\\stocks\\wwwroot\\javascript\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|solutionrelative:stocks\\wwwroot\\javascript\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|c:\\users\\ziadg\\source\\repos\\stocks\\stocks\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|solutionrelative:stocks\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|c:\\users\\ziadg\\source\\repos\\stocks\\stocks\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|solutionrelative:stocks\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|c:\\users\\ziadg\\source\\repos\\stocks\\stocks\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|solutionrelative:stocks\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|c:\\users\\ziadg\\source\\repos\\stocks\\stocks\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|solutionrelative:stocks\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|c:\\users\\ziadg\\source\\repos\\stocks\\stocks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|solutionrelative:stocks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|c:\\users\\ziadg\\source\\repos\\stocks\\stocks\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|solutionrelative:stocks\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|c:\\users\\ziadg\\source\\repos\\stocks\\stocks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCB9D36-6ECF-4CD9-81ED-0D41D7793664}|Stocks\\Stocks.csproj|solutionrelative:stocks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5389203-3BE4-455C-9F07-D5A4CD1432F5}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\ziadg\\source\\repos\\stocks\\servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5389203-3BE4-455C-9F07-D5A4CD1432F5}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "Stocks\\Controllers\\TradeController.cs",
+              "ToolTip": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "Stocks\\Controllers\\TradeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:19:21.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\ziadg\\AppData\\Roaming\\Microsoft\\UserSecrets\\e39a0e15-8649-4dea-82c6-4c062b7e42ef\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\e39a0e15-8649-4dea-82c6-4c062b7e42ef\\secrets.json",
+              "ToolTip": "C:\\Users\\ziadg\\AppData\\Roaming\\Microsoft\\UserSecrets\\e39a0e15-8649-4dea-82c6-4c062b7e42ef\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\e39a0e15-8649-4dea-82c6-4c062b7e42ef\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T15:12:29.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\ziadg\\AppData\\Roaming\\Microsoft\\UserSecrets\\59a6d116-76b3-45a7-a163-12fe44e2355d\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\59a6d116-76b3-45a7-a163-12fe44e2355d\\secrets.json",
+              "ToolTip": "C:\\Users\\ziadg\\AppData\\Roaming\\Microsoft\\UserSecrets\\59a6d116-76b3-45a7-a163-12fe44e2355d\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\59a6d116-76b3-45a7-a163-12fe44e2355d\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T15:12:13.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceContracts",
+              "DocumentMoniker": "C:\\Users\\ziadg\\source\\repos\\Stocks\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeDocumentMoniker": "ServiceContracts\\ServiceContracts.csproj",
+              "ToolTip": "C:\\Users\\ziadg\\source\\repos\\Stocks\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeToolTip": "ServiceContracts\\ServiceContracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T15:08:50.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinnhubScript.js",
+              "DocumentMoniker": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\wwwroot\\JavaScript\\FinnhubScript.js",
+              "RelativeDocumentMoniker": "Stocks\\wwwroot\\JavaScript\\FinnhubScript.js",
+              "ToolTip": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\wwwroot\\JavaScript\\FinnhubScript.js",
+              "RelativeToolTip": "Stocks\\wwwroot\\JavaScript\\FinnhubScript.js",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwDcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-24T15:01:31.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Services\\FinnhubService.cs",
+              "RelativeDocumentMoniker": "Services\\FinnhubService.cs",
+              "ToolTip": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Services\\FinnhubService.cs",
+              "RelativeToolTip": "Services\\FinnhubService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwD0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T14:01:41.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\appsettings.json",
+              "RelativeDocumentMoniker": "Stocks\\appsettings.json",
+              "ToolTip": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\appsettings.json",
+              "RelativeToolTip": "Stocks\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T13:57:38.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TradingOptions.cs",
+              "DocumentMoniker": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\TradingOptions.cs",
+              "RelativeDocumentMoniker": "Stocks\\TradingOptions.cs",
+              "ToolTip": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\TradingOptions.cs",
+              "RelativeToolTip": "Stocks\\TradingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:58:28.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\wwwroot\\StyleSheet.css",
+              "RelativeDocumentMoniker": "Stocks\\wwwroot\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\wwwroot\\StyleSheet.css",
+              "RelativeToolTip": "Stocks\\wwwroot\\StyleSheet.css",
+              "ViewState": "AgIAACYCAAAAAAAAAAAmwDkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-24T15:00:38.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Stocks\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Stocks\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T14:59:43.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Stocks\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Stocks\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T14:59:33.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Stocks\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Stocks\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T14:58:37.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StockTrade.cs",
+              "DocumentMoniker": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\Models\\StockTrade.cs",
+              "RelativeDocumentMoniker": "Stocks\\Models\\StockTrade.cs",
+              "ToolTip": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\Models\\StockTrade.cs",
+              "RelativeToolTip": "Stocks\\Models\\StockTrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T14:54:05.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\ziadg\\source\\repos\\Stocks\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IFinnhubService.cs",
+              "ToolTip": "C:\\Users\\ziadg\\source\\repos\\Stocks\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeToolTip": "ServiceContracts\\IFinnhubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T14:00:07.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\Views\\Trade\\Index.cshtml",
+              "RelativeDocumentMoniker": "Stocks\\Views\\Trade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\Views\\Trade\\Index.cshtml",
+              "RelativeToolTip": "Stocks\\Views\\Trade\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T13:59:40.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\Program.cs",
+              "RelativeDocumentMoniker": "Stocks\\Program.cs",
+              "ToolTip": "C:\\Users\\ziadg\\source\\repos\\Stocks\\Stocks\\Program.cs",
+              "RelativeToolTip": "Stocks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:55:47.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
