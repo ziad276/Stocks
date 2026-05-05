@@ -10,11 +10,13 @@ namespace Stocks.Controllers
     {
         private readonly IFinnhubService _finnhubService;
         private readonly TradingOptions _tradingOptions;
+        private readonly IStocksService _stocksService;
 
-        public TradeController(IFinnhubService finnhubService, IOptions<TradingOptions> tradingOptions)
+        public TradeController(IFinnhubService finnhubService, IOptions<TradingOptions> tradingOptions, IStocksService stocksService)
         {
             _finnhubService = finnhubService;
             _tradingOptions = tradingOptions.Value;
+            _stocksService = stocksService;
         }
 
         [Route("/")]
@@ -27,7 +29,7 @@ namespace Stocks.Controllers
             {
                 StockSymbol = Convert.ToString(companyProfile?["ticker"]),
                 StockName = Convert.ToString(companyProfile?["name"]),
-                Price = ((JsonElement)stockPriceQuote["pc"]).GetDouble(),
+                Price = ((JsonElement)stockPriceQuote["c"]).GetDouble(),
                 Quantity = 10000
             };
 

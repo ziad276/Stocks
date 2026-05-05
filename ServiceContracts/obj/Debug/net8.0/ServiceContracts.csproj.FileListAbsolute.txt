@@ -9,3 +9,8 @@ C:\Users\ziadg\source\repos\Stocks\ServiceContracts\obj\Debug\net8.0\ServiceCont
 C:\Users\ziadg\source\repos\Stocks\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
 C:\Users\ziadg\source\repos\Stocks\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
 C:\Users\ziadg\source\repos\Stocks\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll
+C:\Users\ziadg\source\repos\Stocks\ServiceContracts\obj\Debug\net8.0\ServiceContracts.sourcelink.json
+C:\Users\ziadg\source\repos\Stocks\ServiceContracts\bin\Debug\net8.0\Entities.dll
+C:\Users\ziadg\source\repos\Stocks\ServiceContracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\ziadg\source\repos\Stocks\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\ziadg\source\repos\Stocks\ServiceContracts\obj\Debug\net8.0\ServiceC.04662A29.Up2Date

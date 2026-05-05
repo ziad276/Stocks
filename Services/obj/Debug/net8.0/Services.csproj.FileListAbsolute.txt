@@ -13,3 +13,6 @@ C:\Users\ziadg\source\repos\Stocks\Services\obj\Debug\net8.0\Services.dll
 C:\Users\ziadg\source\repos\Stocks\Services\obj\Debug\net8.0\refint\Services.dll
 C:\Users\ziadg\source\repos\Stocks\Services\obj\Debug\net8.0\Services.pdb
 C:\Users\ziadg\source\repos\Stocks\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\ziadg\source\repos\Stocks\Services\obj\Debug\net8.0\Services.sourcelink.json
+C:\Users\ziadg\source\repos\Stocks\Services\bin\Debug\net8.0\Entities.dll
+C:\Users\ziadg\source\repos\Stocks\Services\bin\Debug\net8.0\Entities.pdb
