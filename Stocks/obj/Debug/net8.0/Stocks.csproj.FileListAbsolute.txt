@@ -42,7 +42,6 @@ C:\Users\ziadg\source\repos\Stocks\Stocks\obj\Debug\net8.0\staticwebassets.build
 C:\Users\ziadg\source\repos\Stocks\Stocks\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ziadg\source\repos\Stocks\Stocks\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\ziadg\source\repos\Stocks\Stocks\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\ziadg\source\repos\Stocks\Stocks\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\ziadg\source\repos\Stocks\Stocks\obj\Debug\net8.0\Stocks.csproj.Up2Date
 C:\Users\ziadg\source\repos\Stocks\Stocks\obj\Debug\net8.0\Stocks.dll
 C:\Users\ziadg\source\repos\Stocks\Stocks\obj\Debug\net8.0\refint\Stocks.dll
@@ -53,3 +52,4 @@ C:\Users\ziadg\source\repos\Stocks\Stocks\bin\Debug\net8.0\Stocks.staticwebasset
 C:\Users\ziadg\source\repos\Stocks\Stocks\obj\Debug\net8.0\Stocks.sourcelink.json
 C:\Users\ziadg\source\repos\Stocks\Stocks\bin\Debug\net8.0\Entities.dll
 C:\Users\ziadg\source\repos\Stocks\Stocks\bin\Debug\net8.0\Entities.pdb
+C:\Users\ziadg\source\repos\Stocks\Stocks\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

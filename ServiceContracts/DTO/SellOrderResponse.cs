@@ -35,7 +35,7 @@ namespace ServiceContracts.DTO
         }
     }
 
-    public static class SellOrderExtensions  // fixed typo: SerllOrder → SellOrder
+    public static class SellOrderExtensions  
     {
         public static SellOrderResponse ToSellOrderResponse(this SellOrder sellOrder)
         {
